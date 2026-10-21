@@ -1,0 +1,16 @@
+.env
+secrets.h
+target/
+build/
+.gradle/
+.idea/
+.vscode/
+*.log
+.pio/
+*.bin
+*.elf
+*.hex
+*.step
+*.stl
+*.f3d
+*.f3z
